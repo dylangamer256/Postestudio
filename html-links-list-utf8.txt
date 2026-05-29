@@ -1,0 +1,233 @@
+﻿
+Path                                                            LineNumber Line                                                                                                                         
+----                                                            ---------- ----                                                                                                                         
+C:\laragon\www\Postestudio\assets\js\isotope.min.js                      4 },removeData:function(a,b){M.remove(a,b)},_data:function(a,b,c){return L.access(a,b,c)},_removeData:function(a,b){L.remove...
+C:\laragon\www\Postestudio\assets\js\isotope.min.js                      5 },removeAttr:function(a,b){var c,d,e=0,f=b&&b.match(E);if(f&&1===a.nodeType)while(c=f[e++])d=n.propFix[c]||c,n.expr.match....
+C:\laragon\www\Postestudio\assets\js\lightbox.js                        42   // http://lokeshdhakar.com/projects/lightbox2/index.html#options                                                           
+C:\laragon\www\Postestudio\assets\js\lightbox.js                       434         $caption.html(this.album[this.currentImageIndex].title);                                                             
+C:\laragon\www\Postestudio\assets\js\owl-carousel.js                  3001 			.html(settings.navText[0])                                                                                                
+C:\laragon\www\Postestudio\assets\js\owl-carousel.js                  3008 			.html(settings.navText[1])                                                                                                
+C:\laragon\www\Postestudio\assets\js\owl-carousel.js                  3066 				this._controls[control].html('');                                                                                        
+C:\laragon\www\Postestudio\assets\js\owl-carousel.js                  3140 				this._controls.$absolute.html(this._templates.join(''));                                                                 
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                   176             _.htmlExpr = /^(?:\s*(<[\w\W]+>)[^>]*)$/;                                                                        
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                   449                 if (_.htmlExpr.test(_.options.prevArrow)) {                                                                  
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                   453                 if (_.htmlExpr.test(_.options.nextArrow)) {                                                                  
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                   858             if ( _.htmlExpr.test( _.options.prevArrow )) {                                                                   
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                   870             if ( _.htmlExpr.test( _.options.nextArrow )) {                                                                   
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                  2776         if (_.$prevArrow && _.htmlExpr.test(_.options.prevArrow)) {                                                          
+C:\laragon\www\Postestudio\assets\js\slick-slider.js                  2780         if (_.$nextArrow && _.htmlExpr.test(_.options.nextArrow)) {                                                          
+C:\laragon\www\Postestudio\assets\js\tabs.js                          3435 			options.label = (this.type === "input" ? this.buttonElement.val() : this.buttonElement.html());                           
+C:\laragon\www\Postestudio\assets\js\tabs.js                          3599 			.html( this.buttonElement.find(".ui-button-text").html() );                                                               
+C:\laragon\www\Postestudio\assets\js\tabs.js                          3665 				.html( this.options.label )                                                                                              
+C:\laragon\www\Postestudio\assets\js\tabs.js                          4758 		inst.selectedDay = inst.currentDay = $("a", td).html();                                                                    
+C:\laragon\www\Postestudio\assets\js\tabs.js                          8522 			title.html( "&#160;" );                                                                                                   
+C:\laragon\www\Postestudio\assets\js\tabs.js                         12498 			element.html( "&#160;" );                                                                                                 
+C:\laragon\www\Postestudio\assets\js\tabs.js                         16094 						panel.html( response );                                                                                                
+C:\laragon\www\Postestudio\assets\js\tabs.js                         16155 			return $( "<a>" ).text( title ).html();                                                                                   
+C:\laragon\www\Postestudio\assets\js\tabs.js                         16365 			tooltipData.tooltip.find( ".ui-tooltip-content" ).html( content );                                                        
+C:\laragon\www\Postestudio\assets\js\tabs.js                         16387 		tooltip.find( ".ui-tooltip-content" ).html( content );                                                                     
+C:\laragon\www\Postestudio\assets\js\tabs.js                         16399 		$( "<div>" ).html( a11yContent ).appendTo( this.liveRegion );                                                              
+C:\laragon\www\Postestudio\assets\js\video.js                           25 !function(a){"function"==typeof define&&define.amd?define(["jquery"],a):a("object"==typeof exports?require("jquery"):windo...
+C:\laragon\www\Postestudio\vendor\bootstrap\js\bootstrap.min.js          6  !function(t,e){"object"==typeof exports&&"undefined"!=typeof module?e(exports,require("jquery"),require("popper.js")):"fu...
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     576 	// http://www.w3.org/TR/CSS21/syndata.html#value-def-identifier                                                             
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     636 	// http://www.w3.org/TR/CSS21/syndata.html#escaped-characters                                                               
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     972 		// https://html.spec.whatwg.org/multipage/scripting.html#selector-enabled                                                  
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     973 		// https://html.spec.whatwg.org/multipage/scripting.html#selector-disabled                                                 
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     978 			//   https://html.spec.whatwg.org/multipage/forms.html#category-listed                                                    
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     979 			//   https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled                                                
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                     981 			//   https://html.spec.whatwg.org/multipage/forms.html#concept-option-disabled                                            
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    4773 				tmp.innerHTML = wrap[ 1 ] + jQuery.htmlPrefilter( elem ) + wrap[ 2 ];                                                    
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    5408 // https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html                                        
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    5702 				args[ 0 ] = value.call( this, index, self.html() );                                                                      
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    5972 				value = jQuery.htmlPrefilter( value );                                                                                   
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    7597 			// https://html.spec.whatwg.org/multipage/syntax.html#attributes-2                                                        
+C:\laragon\www\Postestudio\vendor\jquery\jquery.js                    9892 			self.html( selector ?                                                                                                     
+C:\laragon\www\Postestudio\vendor\jquery\jquery.min.js                   2 !function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.exports=e.document?t(e,!0):fun...
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                576 	// http://www.w3.org/TR/CSS21/syndata.html#value-def-identifier                                                             
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                636 	// http://www.w3.org/TR/CSS21/syndata.html#escaped-characters                                                               
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                972 		// https://html.spec.whatwg.org/multipage/scripting.html#selector-enabled                                                  
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                973 		// https://html.spec.whatwg.org/multipage/scripting.html#selector-disabled                                                 
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                978 			//   https://html.spec.whatwg.org/multipage/forms.html#category-listed                                                    
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                979 			//   https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled                                                
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js                981 			//   https://html.spec.whatwg.org/multipage/forms.html#concept-option-disabled                                            
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js               4773 				tmp.innerHTML = wrap[ 1 ] + jQuery.htmlPrefilter( elem ) + wrap[ 2 ];                                                    
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js               5408 // https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html                                        
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js               5702 				args[ 0 ] = value.call( this, index, self.html() );                                                                      
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js               5972 				value = jQuery.htmlPrefilter( value );                                                                                   
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.js               6804 			// https://html.spec.whatwg.org/multipage/syntax.html#attributes-2                                                        
+C:\laragon\www\Postestudio\vendor\jquery\jquery.slim.min.js              2 !function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.exports=e.document?t(e,!0):fun...
+C:\laragon\www\Postestudio\asistencia.php                               31     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\asistencia.php                               35       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\asistencia.php                               37         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\asistencia.php                               39           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\asistencia.php                               40           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\asistencia.php                               41            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\asistencia.php                               42           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\asistencia.php                               43           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\asistencia.php                               46       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\asistencia.php                               47       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\asistencia.php                               51           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\asistencia.php                               52           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\asistencia.php                               53           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\asistencia.php                               56       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\cursos.php                                   21     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\cursos.php                                   25       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\cursos.php                                   27         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\cursos.php                                   29           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\cursos.php                                   30           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\cursos.php                                   31            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\cursos.php                                   32           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\cursos.php                                   33           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\cursos.php                                   36       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\cursos.php                                   37       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\cursos.php                                   41           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\cursos.php                                   42           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\cursos.php                                   43           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\cursos.php                                   46       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\dashboard.php                                56     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\dashboard.php                                60       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\dashboard.php                                62         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\dashboard.php                                64           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\dashboard.php                                65           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\dashboard.php                                66            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\dashboard.php                                67           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\dashboard.php                                68           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\dashboard.php                                71       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\dashboard.php                                72       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\dashboard.php                                76           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\dashboard.php                                77           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\dashboard.php                                78           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\dashboard.php                                81       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\docentes.php                                 29     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\docentes.php                                 33       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\docentes.php                                 35         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\docentes.php                                 37           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\docentes.php                                 38           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\docentes.php                                 39            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\docentes.php                                 40           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\docentes.php                                 41           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\docentes.php                                 44       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\docentes.php                                 45       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\docentes.php                                 49           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\docentes.php                                 50           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\docentes.php                                 51           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\docentes.php                                 54       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\index.php                                    16     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\index.php                                    20       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\index.php                                    22         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\index.php                                    24           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\index.php                                    25           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\index.php                                    26            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\index.php                                    27           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\index.php                                    28           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\index.php                                    31       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\index.php                                    32       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\index.php                                    36           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\index.php                                    37           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\index.php                                    38           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\index.php                                    41       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\index.php                                    55         <a href="tareas.html">Ver mis tareas</a>                                                                             
+C:\laragon\www\Postestudio\index.php                                    69             <a href="tareas.html">Ir a tareas</a>                                                                            
+C:\laragon\www\Postestudio\index.php                                    78             <a href="tareas.html">Subir</a>                                                                                  
+C:\laragon\www\Postestudio\index.php                                    87             <a href="mensajes.html">Ir a mensajes</a>                                                                        
+C:\laragon\www\Postestudio\login.php                                    81     window.location.href="dashboard.html";                                                                                   
+C:\laragon\www\Postestudio\materias.php                                 72     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\materias.php                                 76       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\materias.php                                 78         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\materias.php                                 80           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\materias.php                                 81           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\materias.php                                 82            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\materias.php                                 83           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\materias.php                                 84           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\materias.php                                 87       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\materias.php                                 88       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\materias.php                                 92           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\materias.php                                 93           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\materias.php                                 94           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\materias.php                                 97       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\mensajes.php                                 74     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\mensajes.php                                 78       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\mensajes.php                                 80         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\mensajes.php                                 82           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\mensajes.php                                 83           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\mensajes.php                                 84            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\mensajes.php                                 85           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\mensajes.php                                 86           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\mensajes.php                                 89       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\mensajes.php                                 90       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\mensajes.php                                 94           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\mensajes.php                                 95           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\mensajes.php                                 96           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\mensajes.php                                 99       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\perfil.php                                   69     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\perfil.php                                   73       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\perfil.php                                   75         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\perfil.php                                   77           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\perfil.php                                   78           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\perfil.php                                   79            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\perfil.php                                   80           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\perfil.php                                   81           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\perfil.php                                   84       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\perfil.php                                   85       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\perfil.php                                   89           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\perfil.php                                   90           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\perfil.php                                   91           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\perfil.php                                   94       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\reportes.php                                 30     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\reportes.php                                 34       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\reportes.php                                 36         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\reportes.php                                 38           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\reportes.php                                 39           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\reportes.php                                 40            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\reportes.php                                 41           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\reportes.php                                 42           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\reportes.php                                 45       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\reportes.php                                 46       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\reportes.php                                 50           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\reportes.php                                 51           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\reportes.php                                 52           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\reportes.php                                 55       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\tareas.php                                   82     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\tareas.php                                   86       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\tareas.php                                   88         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\tareas.php                                   90           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\tareas.php                                   91           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\tareas.php                                   92            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas.php                                   93           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\tareas.php                                   94           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\tareas.php                                   97       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas.php                                   98       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas.php                                  102           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas.php                                  103           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\tareas.php                                  104           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas.php                                  107       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\tareas_pendientes.php                        50     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\tareas_pendientes.php                        54       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\tareas_pendientes.php                        56         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\tareas_pendientes.php                        58           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\tareas_pendientes.php                        59           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\tareas_pendientes.php                        60            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_pendientes.php                        61           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\tareas_pendientes.php                        62           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\tareas_pendientes.php                        65       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas_pendientes.php                        66       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas_pendientes.php                        70           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_pendientes.php                        71           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\tareas_pendientes.php                        72           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_pendientes.php                        75       <li><a href="perfil.html">Perfil</a></li>                                                                              
+C:\laragon\www\Postestudio\tareas_vencidas.php                          42     <a href="index.html"><em>Post</em>Estudio</a>                                                                            
+C:\laragon\www\Postestudio\tareas_vencidas.php                          46       <li class="active"><a href="index.html">Inicio</a></li>                                                                
+C:\laragon\www\Postestudio\tareas_vencidas.php                          48         <a href="tareas.html">Tareas</a>                                                                                     
+C:\laragon\www\Postestudio\tareas_vencidas.php                          50           <li><a href="dashboard.html">Dashboard</a></li>                                                                    
+C:\laragon\www\Postestudio\tareas_vencidas.php                          51           <li><a href="tareas.html">Panel</a></li>                                                                           
+C:\laragon\www\Postestudio\tareas_vencidas.php                          52            <li><a href="tareas.html">Asignadas</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_vencidas.php                          53           <li><a href="tareas_pendientes.html">Pendientes</a></li>                                                           
+C:\laragon\www\Postestudio\tareas_vencidas.php                          54           <li><a href="tareas_vencidas.html">Vencidas</a></li>                                                               
+C:\laragon\www\Postestudio\tareas_vencidas.php                          57       <li><a href="materias.html">Materias</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas_vencidas.php                          58       <li><a href="mensajes.html">Mensajes</a></li>                                                                          
+C:\laragon\www\Postestudio\tareas_vencidas.php                          62           <li><a href="docentes.html">Docentes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_vencidas.php                          63           <li><a href="asistencia.html">Asistencia</a></li>                                                                  
+C:\laragon\www\Postestudio\tareas_vencidas.php                          64           <li><a href="reportes.html">Reportes</a></li>                                                                      
+C:\laragon\www\Postestudio\tareas_vencidas.php                          67       <li><a href="perfil.html">Perfil</a></li>                                                                              
+
+
